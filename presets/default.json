@@ -1,5 +1,5 @@
 {
-    "default_model": "OnlyForNsfw118.safetensors",
+    "default_model": "Zonkey.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,7 +43,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai.com/api/download/models/363977"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://civitai-delivery-worker-prod.5ac0637cfd0766c97916cefa3764fbdf.r2.cloudflarestorage.com/model/4117457/zonkeyV2.0hkq.safetensors?X-Amz-Expires=86400&response-content-disposition=attachment%3B%20filename%3D%22zonkey_v20.safetensors%22&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=e01358d793ad6966166af8b3064953ad/20240428/us-east-1/s3/aws4_request&X-Amz-Date=20240428T035121Z&X-Amz-SignedHeaders=host&X-Amz-Signature=09fafe90008f33016f7bc1999477d8db291b7d21505a24d9fa1d79e6be4dd7cf"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
