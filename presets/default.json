@@ -1,5 +1,5 @@
 {
-    "default_model": "onlyfornsfw118_v20",
+    "default_model": "onlyfornsfw118_v20.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -43,7 +43,7 @@
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/ferdyshampo/OnlyForNsfw118/resolve/main/onlyfornsfw118_v20.safetensors"
+        "onlyfornsfw118_v20.safetensors": "https://huggingface.co/ferdyshampo/OnlyForNsfw118/resolve/main/onlyfornsfw118_v20.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
